@@ -1,0 +1,20 @@
+﻿@model Assignment.Models.ExamResultViewModel
+
+<h2>Exam Results</h2>
+<p>Email: @Model.Email</p>
+<p>@Model.CorrectAnswers out of @Model.TotalQuestions answers are correct</p>
+
+<table class="table">
+   
+    <tbody>
+        @foreach (var result in Model.QuestionAnswerResults)
+        {
+            <tr>
+                <td>@result.QuestionText <br />
+                     Correct Ans :- @result.CorrectAnswer <br />
+                     Your Ans :- @result.SelectedAnswer</td>
+                
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,23 @@
+﻿@model Assignment.Models.Question
+@{
+    ViewBag.Title = "Question " + ViewBag.QuestionIndex;
+}
+
+<h2>@Model.QuestionText</h2>
+
+<form method="post">
+    <input type="hidden" name="questionId" value="@Model.Id">
+    <div class="form-check">
+        <input type="radio" name="selectedAnswer" value="@Model.Option1" class="form-check-input" required> @Model.Option1
+    </div>
+    <div class="form-check">
+        <input type="radio" name="selectedAnswer" value="@Model.Option2" class="form-check-input" required> @Model.Option2
+    </div>
+    <div class="form-check">
+        <input type="radio" name="selectedAnswer" value="@Model.Option3" class="form-check-input" required> @Model.Option3
+    </div>
+    <div class="form-check">
+        <input type="radio" name="selectedAnswer" value="@Model.Option4" class="form-check-input" required> @Model.Option4
+    </div>
+    <button type="submit" class="btn btn-primary">Next</button>
+</form>

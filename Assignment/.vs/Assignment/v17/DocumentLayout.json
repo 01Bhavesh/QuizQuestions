@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\views\\quiz\\questionpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\quiz\\questionpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\views\\quiz\\examresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\quiz\\examresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\views\\quiz\\begintest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\quiz\\begintest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\models\\examresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\examresultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\models\\questionanswerresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\questionanswerresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\models\\useranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\models\\useranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|d:\\visualstudio\\assignment\\assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{965C1F50-49CC-4833-BC56-2D38EF89A6AB}|Assignment\\Assignment.csproj|solutionrelative:assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExamResultViewModel.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Models\\ExamResultViewModel.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\ExamResultViewModel.cs",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Models\\ExamResultViewModel.cs",
+              "RelativeToolTip": "Assignment\\Models\\ExamResultViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T07:45:26.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExamResult.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Views\\Quiz\\ExamResult.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Quiz\\ExamResult.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Views\\Quiz\\ExamResult.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Quiz\\ExamResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T11:32:41.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\QuizController.cs",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\QuizController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwFsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:23:14.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\Question.cs",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Models\\Question.cs",
+              "RelativeToolTip": "Assignment\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:57:51.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeginTest.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Views\\Quiz\\BeginTest.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Quiz\\BeginTest.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Views\\Quiz\\BeginTest.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Quiz\\BeginTest.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T11:27:36.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionPage.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Views\\Quiz\\QuestionPage.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Quiz\\QuestionPage.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Views\\Quiz\\QuestionPage.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Quiz\\QuestionPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T11:30:07.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:04:58.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T11:42:30.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuestionAnswerResult.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Models\\QuestionAnswerResult.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\QuestionAnswerResult.cs",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Models\\QuestionAnswerResult.cs",
+              "RelativeToolTip": "Assignment\\Models\\QuestionAnswerResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T07:41:28.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserAnswer.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Models\\UserAnswer.cs",
+              "RelativeDocumentMoniker": "Assignment\\Models\\UserAnswer.cs",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Models\\UserAnswer.cs",
+              "RelativeToolTip": "Assignment\\Models\\UserAnswer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:02:38.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\DBContext.cs",
+              "RelativeDocumentMoniker": "Assignment\\DBContext.cs",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\DBContext.cs",
+              "RelativeToolTip": "Assignment\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:44:03.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T11:42:13.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Assignment\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Assignment\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T11:42:18.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:41:36.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VisualStudio\\Assignment\\Assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment\\appsettings.json",
+              "ToolTip": "D:\\VisualStudio\\Assignment\\Assignment\\appsettings.json",
+              "RelativeToolTip": "Assignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T09:21:31.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

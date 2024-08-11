@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Begin Test";
+}
+
+<h2>Enter your email to begin the test</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <input type="email" class="form-control" id="email" name="email" required>
+        @if (ViewBag.Error != null)
+        {
+            <div class="text-danger">@ViewBag.Error</div>
+        }
+    </div>
+    <button type="submit" class="btn btn-primary">Begin Exam</button>
+</form>
